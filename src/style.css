@@ -1,0 +1,88 @@
+body {
+  background: rgb(201, 239, 240);
+  font-family: "Karla", sans-serif;
+}
+input,
+h1,
+h2,
+.tempNow,
+.today,
+.todayInfo,
+.mainEmoji {
+  text-align: center;
+}
+h1 {
+  text-transform: capitalize;
+}
+
+h2 {
+  font-size: 40px;
+
+  color: #0077a7;
+}
+.search {
+  display: block;
+  padding: 40px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.searchEnter {
+  color: white;
+  display: block;
+  font-size: 18px;
+  margin: 0 auto;
+  padding: 8px 30px;
+  background-color: #0077a7;
+  margin-top: 10px;
+  border-radius: 30px;
+  border: solid 2px white;
+}
+.button {
+  color: white;
+  display: block;
+  font-size: 18px;
+  margin: 0 auto;
+  padding: 8px 30px;
+  background-color: rgb(252, 193, 26);
+  margin-top: -30px;
+  margin-bottom: 15px;
+  border-radius: 30px;
+  border: solid 2px white;
+}
+.tempNow {
+  font-size: 70px;
+  color: #0077a7;
+}
+.today {
+  font-size: 20px;
+}
+.unit {
+  font-size: 30px;
+  color: #0077a7;
+  position: relative;
+  top: -32px;
+  left: -20px;
+  text-decoration: none;
+}
+.card-text {
+  margin-bottom: 0.05px;
+}
+.mainEmoji {
+  font-size: 100px;
+}
+.bg {
+  background-color: #0077a7;
+}
+.todayHilo {
+  padding: 30px;
+}
+.todayInfo,
+.fw-bold {
+  font-size: 30px;
+}
+.ms-2 {
+  font-size: 15px;
+}
+.rounded-pill {
+  font-size: 35px;
+}
