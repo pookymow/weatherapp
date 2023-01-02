@@ -8,7 +8,8 @@ h2,
 .tempNow,
 .today,
 .todayInfo,
-.mainEmoji {
+.mainEmoji,
+.opensrc {
   text-align: center;
 }
 h1 {
@@ -85,4 +86,7 @@ h2 {
 }
 .rounded-pill {
   font-size: 35px;
+}
+.linksrc {
+  text-decoration: none;
 }
